@@ -1,0 +1,7 @@
+name: MinecraftManhunt
+author: jdweak
+version: 1.0
+main: me.jdweak.manhunt.Main
+commands:
+ setRunner:
+ setHunter:
